@@ -5,18 +5,18 @@ audience: designers
 product: all
 platform: all
 version: all
-destination: ../doc_designers
-topnav_title: Jekyll Documentation Theme
-homepage_title: Jekyll Documentation Theme &mdash; Designers
-site_title: Jekyll Documentation Theme &mdash; Designers
-disqus_shortname: idrbwjekyll
-google_analytics: UA-66296557-1
-github_editme_path: tomjohnson1492/documentation-theme-jekyll/blob/gh-pages
+destination: /Users/integration/Documents/Lucy/Jekyll/documentation-theme-jekyll-gh-pages/doc_designers
+topnav_title: Tech Support
+homepage_title: Release Note
+site_title: IGAWorks
+###disqus_shortname: idrbwjekyll
+###google_analytics: UA-66296557-1
+###github_editme_path: tomjohnson1492/documentation-theme-jekyll/blob/gh-pages
 # don't use a slash before or after the above path. here's how this url gets written out in page.html: https://github.com/{{site.github_editme_path}}{{page.url | replace: '.html', '.md'}}
 # variables
 
-sidebar_tagline: designers
-sidebar_version: version 3.0
+###sidebar_tagline:
+###sidebar_version:
 
 port: 4001
 
@@ -28,7 +28,7 @@ exclude:
 
 # same for all
 host: 127.0.0.1
-feedback_email: tomjohnson1492@gmail.com
+feedback_email: integration@igaworks.com
 sidebar_accordion: true
 markdown: redcarpet
 print: false
@@ -44,6 +44,10 @@ highlighter: pygments
 collections:
   tooltips:
     output: true
+  android:
+    output: true
+    permalink: /android/:path/
+    # site.android
 
 defaults:
   -
