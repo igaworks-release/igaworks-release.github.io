@@ -5,7 +5,7 @@ audience: designers
 product: all
 platform: all
 version: all
-destination: /Users/integration/Documents/Lucy/Jekyll/documentation-theme-jekyll-gh-pages/doc_designers
+destination: /Users/integration/Documents/Lucy/Jekyll/lucy8826.github.io/doc_designers
 topnav_title: Tech Support
 homepage_title: Release Note
 site_title: IGAWorks
@@ -28,7 +28,7 @@ exclude:
 
 # same for all
 host: 127.0.0.1
-feedback_email: integration@igaworks.com
+#feedback_email: integration@igaworks.com
 sidebar_accordion: true
 markdown: redcarpet
 print: false
@@ -48,6 +48,10 @@ collections:
     output: true
     permalink: /android/:path/
     # site.android
+  ios:
+    output: true
+    permalink: /ios/:path/
+    # site.ios
 
 defaults:
   -
