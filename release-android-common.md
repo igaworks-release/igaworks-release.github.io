@@ -6,11 +6,11 @@ summary: "This is Common Release Notes."
 ---
 
 ## 4.0.8a
-* Remove collecting encrypt IMEI
+* From this version, SDK does not collect encrypted IMEI
 
 
 ---
 
 ## 4.0.4a
-* Fix issue for some low specification devices
-* Fix issue for AsyncTask in web view
+* Improved performance to work with some old model low-spec devices
+* Fixed AsyncTask issue with webView

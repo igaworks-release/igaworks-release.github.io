@@ -6,9 +6,9 @@ summary: "This is Adbrix Release Notes."
 ---
 
 ## 4.0.4a
-* Remove collecting encrypt IMEI
+* From this version, SDK does not collect encrypted IMEI
 
 ---
 
 ## 4.0.0a
-* Improve networking performance
+* Improved performance to work with some old model low-spec devices

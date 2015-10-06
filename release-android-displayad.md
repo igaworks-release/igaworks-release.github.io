@@ -6,25 +6,26 @@ summary: "This is DisplayAd Release Notes."
 ---
 
 ## 2.0.2a
-* Add option for displaying Ending AD
-* Add event listener for Ending AD
+* Added option to display Ending Ads
+* Added Ending Ads event listener
+
 
 ## 2.0.1a
-* Add automatically filled background color for banner AD (support only IGAWorks AD)
-* Change Ending AD size
-* Change to precess downloading image from interstitial AD
-* Add PreViedeo beta code
+* Support to fill Banner Ads background color(support IGAWorks Ads only)
+* Changed ending Ads size
+* Changed interstitial Ads image downloading process
+* Added PreVideo beta code
 
 
 ## 2.0.0a
-* Remove collecting encrypt IMEI
+* From this version, SDK does not collect encrypted IMEI
 
 ---
 
 ## 1.3.2a
-* Add mediation network, Mezzo
-* Add web view for Ending AD and Popup AD
-* Fix the period of destroying web view
+* Added Mezzo mediation network
+* Added WebView support for Ending Ads and Popup Ads
+* Fixed WebView destroying issue
 * AsyncTask -> Thread
-* Change internal logic
-* Fix issue for interstitial AD
+* Changed internal logic
+* Fixed interstitial Ads issue
