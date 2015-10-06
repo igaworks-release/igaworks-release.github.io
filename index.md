@@ -8,7 +8,7 @@ summary: "IGAWorks Release Documentation."
 
 ## [Android](/release-android-common.html)
 
- Check Android Release Notes for each IGAWors services.
+ Check Android Release Notes for each IGAWorks services.
 
  * [Common SDK](/release-android-common.html)
  * [Adbrix SDK](/release-android-adbrix.html)
@@ -23,7 +23,7 @@ summary: "IGAWorks Release Documentation."
 
 ## [iOS](/release-ios-core.html)
 
- Check iOS Release Notes for each IGAWors services.
+ Check iOS Release Notes for each IGAWorks services.
 
  * [Core SDK](/release-ios-core.html)
  * [AdBrix SDK](/release-ios-adbrix.html)
