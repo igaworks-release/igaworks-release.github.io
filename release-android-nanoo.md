@@ -6,4 +6,4 @@ summary: "This is Nanoo Release Notes."
 ---
 
 ## 1.0.1a
-* Remove collecting encrypt IMEI
+* From this version, SDK does not collect encrypted IMEI

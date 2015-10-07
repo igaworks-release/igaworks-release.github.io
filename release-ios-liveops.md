@@ -6,14 +6,14 @@ summary: "This is LiveOps Release Notes."
 ---
 
 ## 2.0.3
-* Fix issue for Invalid Bundle reject
+* Fixed Invalid Bundle rejecting issue
 
 ## 2.0.2
-* Fix warning issue in Xcode7
-* Add required framework
+* Fixed warning issue when building app with Xcode7
+* Added required framework
 
 ## 2.0.1
-* Fix issue displaying English in Pop-up Notice
+* Fixed English displaying message in Notice Pop-up
 
 ## 2.0.0
 * Support iOS9

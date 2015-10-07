@@ -7,6 +7,9 @@ figcaption,
 figure,
 footer,
 header,
+head{
+  @import url(https://cdn.rawgit.com/openhiun/hangul/14c0f6faa2941116bb53001d6a7dcd5e82300c3f/nanumbarungothic.css);
+}
 hgroup,
 main,
 nav,
@@ -27,7 +30,7 @@ audio:not([controls]) {
   display: none;
 }
 html {
-  font-family: NanumBarunGothic, sans-serif;
+  font-family: 'Nanum Barun Gothic', sans-serif;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
@@ -68,7 +71,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: NanumBarunGothic, monospace, serif;
+  font-family: 'Nanum Barun Gothic', monospace, serif;
   font-size: 1em;
 }
 pre {
@@ -250,7 +253,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: NanumBarunGothic, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Nanum Barun Gothic', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.428571429;
   /*color: #77777a; */
@@ -273,6 +276,7 @@ textarea {
 a {
   color: #248EC2;
   text-decoration: none;
+
 }
 a:hover,
 a:focus {
@@ -384,7 +388,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: NanumBarunGothic, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Nanum Barun Gothic', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   line-height: 1.1;
 }
@@ -594,7 +598,7 @@ address {
 }
 code,
 pre {
-  font-family: NanumBarunGothic, Monaco, Menlo, Consolas, "Courier New", monospace;
+  font-family: 'Nanum Barun Gothic', Monaco, Menlo, Consolas, "Courier New", monospace;
 }
 code {
   padding: 2px 4px;
@@ -636,6 +640,7 @@ pre code {
 .container {
   margin-right: auto;
   margin-left: auto;
+  margin-top: 5px;
   padding-left: 15px;
   padding-right: 15px;
 }
@@ -2140,7 +2145,7 @@ input[type="button"].btn-block {
   transition: height 0.35s ease;
 }
 @font-face {
-  font-family: NanumBarunGothic, 'Glyphicons Halflings';
+  font-family: 'Nanum Barun Gothic', 'Glyphicons Halflings';
   src: url('../fonts/glyphicons-halflings-regular.eot');
   src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
 }
@@ -2148,7 +2153,7 @@ input[type="button"].btn-block {
   position: relative;
   top: 1px;
   display: inline-block;
-  font-family: NanumBarunGothic, 'Glyphicons Halflings';
+  font-family: 'Nanum Barun Gothic', 'Glyphicons Halflings';
   font-style: normal;
   font-weight: normal;
   line-height: 1;
@@ -5277,7 +5282,7 @@ body.modal-open,
   height: 20px;
   margin-top: -10px;
   margin-left: -10px;
-  font-family: NanumBarunGothic, serif;
+  font-family: 'Nanum Barun Gothic', serif;
 }
 .carousel-control .icon-prev:before {
   content: '\2039';

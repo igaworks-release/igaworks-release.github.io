@@ -6,5 +6,5 @@ summary: "This is Promotion Release Notes."
 ---
 
 ## 3.3.4a
-* Remove collecting encrypt IMEI
-* Change UI
+* From this version, SDK does not collect encripted IMEI
+* Changed popup UI

@@ -6,19 +6,19 @@ summary: "This is LiveOps Release Notes."
 ---
 
 ## 1.3.0a
-* Fix to print out error log, when use Pop-up Notice
+* Removed unnecessary error log, when using Notice Pop-up
 
 ## 1.2.9a
-* Remove collecting encrypt IMEI
-* Add flush API for synchronize targeting data
-* Add to change push icon image API (support Android 5.0, Lollipop)
-* Support url custom scheme type, when open the push message.
-* Add delegate to enable push service
-* Add Pop-up Notice event listener
-* Add to close Pop-up Notices API
+* From this version, SDK does not collect encrypted IMEI
+* Added flush API to send all targeting data to LiveOps Database Server
+* New API to setup push icon image style (support Android 5.0, Lollipop)
+* Support deeplink scheme type, when opening the push message.
+* New API: Added push service enabling callback function
+* Added Notice Pop-up event listener
+* Added Notice Pop-up closing API
 
 ---
 
 ## 1.2.6a
-* Add Pop-up Notice service
-* Pop-up Notice support web view javascript
+* New Service: Added Notice Pop-up service
+* Notice Pop-up supports javascript-enable webView

@@ -6,12 +6,12 @@ summary: "This is AdPopcornOfferwall Release Notes."
 ---
 
 ## 2.0.2
-* Fix warning issue in Xcode7
-* Add required framework
-* Fix issue for Invalid Bundle reject
+* Fixed warning issue when building app with Xcode7
+* Added required framework
+* Fixed Invalid Bundle rejecting issue
 
 ## 2.0.1
-* Fix issue displaying broken Hangul text in Offewall campaign detail
+* Fixed broken Hangul text issue in Offewall campaign message
 
 ## 2.0.0
 * Support iOS9
@@ -19,7 +19,7 @@ summary: "This is AdPopcornOfferwall Release Notes."
 ---
 
 ## 1.0.1
-* Change MBBarProgressView/MBBarProgressView class name for avoiding duplicate error
+* Changed MBBarProgressView/MBBarProgressView class name for avoiding duplicate error
 
 ## 1.0.0
 * Divided SDK by services

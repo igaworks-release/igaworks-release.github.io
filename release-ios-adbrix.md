@@ -6,9 +6,10 @@ summary: "This is AdBrix Release Notes."
 ---
 
 ## 2.0.1
-* Fix warning issue in Xcode7
-* Add required framework
-* Fix issue for Invalid Bundle reject
+* Fixed warning issue when building app with Xcode7
+* Addd required framework
+* Fixed Invalid Bundle rejecting issue
+
 
 ## 2.0.0
 * Support iOS9

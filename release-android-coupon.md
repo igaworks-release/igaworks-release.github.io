@@ -6,10 +6,10 @@ summary: "This is Coupon Release Notes."
 ---
 
 ## 4.0.3a
-* Remove collecting encrypt IMEI
-* Change callback listener
+* From this version, SDK does not collect encrypted IMEI
+* Changed coupon opening event listener
 
 ---
 
 ## 4.0.0a
-* Update to synchronize Common SDK
+* Update to work with new Common SDK version
