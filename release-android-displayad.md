@@ -5,6 +5,9 @@ last_updated: September 25, 2015
 summary: "This is DisplayAd Release Notes."
 ---
 
+## 2.0.3a
+* Fixed Ending Ads issue
+
 ## 2.0.2a
 * Added option to display Ending Ads
 * Added Ending Ads event listener
