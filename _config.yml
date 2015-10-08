@@ -6,7 +6,7 @@ product: all
 platform: all
 version: all
 destination: /Users/integration/Documents/Lucy/Jekyll/lucy8826.github.io/doc_designers
-topnav_title: tech support
+topnav_title: Tech Support
 homepage_title: Release Note
 site_title: IGAWorks
 ###disqus_shortname: idrbwjekyll
