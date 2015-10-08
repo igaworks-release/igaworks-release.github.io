@@ -447,7 +447,7 @@ border-radius: 5px;
 }
 
 span.projectTitle {
-    font-family: 'Nanum Barun Gothic', Helvetica;
+    font-family: 'Nanum Gothic', 'Nanum Barun Gothic', Helvetica;
     text-decoration: none;
     font-weight: bold;
     font-size: 26px;
