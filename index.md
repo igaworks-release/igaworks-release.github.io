@@ -8,6 +8,8 @@ summary: "IGAWorks Release Documentation."
 
 ## [Android](/release-android-common.html)
 
+테스트 커밋입니다.
+
  Check Android Release Notes for each IGAWorks services.
 
  * [Common SDK](/release-android-common.html)
