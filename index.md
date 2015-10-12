@@ -5,7 +5,7 @@ homepage: true
 published: true
 summary: "IGAWorks Release Documentation."
 ---
-테스트
+
 ## [Android](/release-android-common.html)
 
  Check Android Release Notes for each IGAWorks services.
