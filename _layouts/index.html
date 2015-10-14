@@ -53,7 +53,7 @@
             <h1 class="post-title-main">{% if page.homepage == true %} {{site.homepage_title}} {% else %}{{ page.title }}{% endif %}</h1>
         </div>
 
-        <div class="post-content">
+        <a class="post-content">
 
             {% if page.summary %}
             <div class="summary">{{page.summary}}</div>
@@ -66,15 +66,17 @@
             {% for page in site.pages %}
                 {% for tag in page.tags %}
                     {% if tags == main %}
-
-                        {{page.content}}
-
+                    <a href="/{{ page.permalink }}"><h2>{{ page.title }}</h2></a>
+                        <div class="post-content">{{ page.content }}
+                        </div>
                     {% endif %}
                 {% endfor %}
             {% endfor %}
 
 
+
             {{content}}
+            <br>
 
         </div>
     </div>    <!-- /.container -->
