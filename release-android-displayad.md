@@ -2,6 +2,8 @@
 title: DisplayAd SDK
 keywords: start, introduction, begin, install, build, hello world,
 last_updated: September 25, 2015
+tags: [main]
+permalink: release-android-displayad.html
 summary: "This is DisplayAd Release Notes."
 ---
 

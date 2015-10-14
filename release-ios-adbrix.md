@@ -1,5 +1,5 @@
 ---
-title: AdBrix SDK
+title: Adbrix SDK
 keywords: start, introduction, begin, install, build, hello world,
 last_updated: October 2, 2015
 summary: "This is AdBrix Release Notes."

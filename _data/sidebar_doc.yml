@@ -52,7 +52,7 @@ entries:
           product: all
           version: all
 
-        - title: Adpcorn SDK
+        - title: Adpopcorn SDK
           url: /release-android-adpopcorn.html
           audience: writers, designers
           platform: all

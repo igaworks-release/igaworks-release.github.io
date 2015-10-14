@@ -43,9 +43,9 @@ release-android-adbrix:
 
 
 release-android-adpopcorn:
-  title: "Adpcorn SDK"
+  title: "Adpopcorn SDK"
   url: "release-android-adpopcorn.html"
-  link: "<a href='release-android-adpopcorn.html'>Adpcorn SDK</a>"
+  link: "<a href='release-android-adpopcorn.html'>Adpopcorn SDK</a>"
 
 
 release-android-displayad:
