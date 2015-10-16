@@ -1,22 +1,21 @@
 <div class="post-content">
 
-    {% for page in site.pages %}
-        {% for tag in page.tags %}
-            {% if tags == main %}
-                <a href="/{{ page.permalink }}"><h2>{{page.title }}</h2></a>
+    <h2 class="hmh2style">Latest Updates</h2>
+        {% for page in site.pages %}
+        {% for tags in page.tags %}
 
 
-                <div class="post-content"></div>
-                    {{page.content | content: '##'}}
-                        test
+            <h3><a href="/{{ page.permalink }}">
+                {{ page.tags }} : {{ page.title }}
+            </a></h3>
 
+            {{ page.content | replace: "##", "<h6></h6>" | replace: "*", "<li>" | replace: "---", "" | truncatewords:20 }}
+            <span class="hmspanstyle"><a href="/{{ page.permalink }}">read more</a></span>
+            <h4></h4>
 
-                    {{ page.content }}
-
-
-
-            {% endif %}
         {% endfor %}
-    {% endfor %}
+        {% endfor %}
 
 </div>
+
+<hr style="width:100%"/>

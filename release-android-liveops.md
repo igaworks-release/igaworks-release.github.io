@@ -2,6 +2,8 @@
 title: LiveOps SDK
 keywords: start, introduction, begin, install, build, hello world,
 last_updated: September 30, 2015
+tags: 
+permalink: release-android-liveops.html
 summary: "This is LiveOps Release Notes."
 ---
 
