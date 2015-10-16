@@ -1,5 +1,4 @@
 ---
-layout: index
 title: Introduction
 type: first_page
 homepage: true
@@ -7,7 +6,7 @@ published: true
 summary: "IGAWorks Release Documentation."
 ---
 
-## [Android](/release-android-common.html)
+## [Android](/release-android-front.html)
 
  Check Android Release Notes for each IGAWorks services.
 
@@ -22,7 +21,7 @@ summary: "IGAWorks Release Documentation."
  * [Nanoo SDK](/release-android-nanoo.html)
 
 
-## [iOS](/release-ios-core.html)
+## [iOS](/release-ios-front.html)
 
  Check iOS Release Notes for each IGAWorks services.
 
