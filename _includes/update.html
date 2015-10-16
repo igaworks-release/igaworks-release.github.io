@@ -1,0 +1,22 @@
+<div class="post-content">
+
+    {% for page in site.pages %}
+        {% for tag in page.tags %}
+            {% if tags == main %}
+                <a href="/{{ page.permalink }}"><h2>{{page.title }}</h2></a>
+
+
+                <div class="post-content"></div>
+                    {{page.content | content: '##'}}
+                        test
+
+
+                    {{ page.content }}
+
+
+
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+
+</div>

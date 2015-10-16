@@ -30,6 +30,7 @@ entries:
           frontmatter: true
 
     - title: Android
+      url: /release-android-front.html
       audience: writers, designers
       platform: all
       product: all
@@ -103,6 +104,7 @@ entries:
 
 
     - title: iOS
+      url: /release-ios-front.html
       audience: writers, designers
       platform: all
       product: all

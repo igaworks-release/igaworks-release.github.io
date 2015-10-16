@@ -4,11 +4,6 @@
 
     {% include head.html %}
 
-    <script>
-        $(function () {
-            $('[data-toggle="tooltip"]').tooltip()
-        })
-    </script>
     {% unless site.print == true %}
     {% if page.video == true %}
     <link href="https://vjs.zencdn.net/4.12/video-js.css" rel="stylesheet">
@@ -61,18 +56,20 @@
 
             {% include toc.html %}
 
+            {% include update.html %}
 
 
+<!--
             {% for page in site.pages %}
                 {% for tag in page.tags %}
                     {% if tags == main %}
-                    <a href="/{{ page.permalink }}"><h2>{{ page.title }}</h2></a>
+                    <a href="/{{ page.permalink }}"><h2>{{page.title }}</h2></a>
                         <div class="post-content">{{ page.content }}
                         </div>
                     {% endif %}
                 {% endfor %}
             {% endfor %}
-
+-->
 
 
             {{content}}
