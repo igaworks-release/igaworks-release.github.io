@@ -2,6 +2,8 @@
 title: Common SDK
 keywords: start, introduction, begin, install, build, hello world,
 last_updated: September 24, 2015
+tags: 
+permalink: release-android-common.html
 summary: "This is Common Release Notes."
 ---
 

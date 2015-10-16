@@ -2,6 +2,8 @@
 title: Coupon SDK
 keywords: start, introduction, begin, install, build, hello world,
 last_updated: September 30, 2015
+tags: 
+permalink: release-android-coupon.html
 summary: "This is Coupon Release Notes."
 ---
 

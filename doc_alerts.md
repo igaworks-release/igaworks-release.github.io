@@ -1,7 +1,7 @@
 ---
 title: Alerts
 keywords: notes, tips, cautions, warnings, admonitions
-last_updated: August 12, 2015
+last_updated: September 25, 2014
 summary: "You can insert notes, tips, warnings, and important alerts in your content. These notes are stored as shortcodes made available through the linksrefs.hmtl include."
 ---
 {% comment %} comment 4 by saphira {% endcomment %}

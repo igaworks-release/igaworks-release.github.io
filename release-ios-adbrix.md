@@ -2,6 +2,8 @@
 title: Adbrix SDK
 keywords: start, introduction, begin, install, build, hello world,
 last_updated: October 2, 2015
+tags: 
+permalink: release-ios-adbrix.html
 summary: "This is AdBrix Release Notes."
 ---
 

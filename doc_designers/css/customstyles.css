@@ -821,3 +821,12 @@ a.accordion-toggle {
 .tommy {font-weight:bold; font-color: red;}
 #johnson {font-weight:bold; font-color: blue;}
 
+span.hmspanstyle {
+    color:gray;
+}
+
+h2.hmh2style{
+    font-size:24px;
+    line-height:29px;
+}
+

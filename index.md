@@ -1,11 +1,11 @@
 ---
+layout: index
 title: Introduction
 type: first_page
 homepage: true
 published: true
 summary: "IGAWorks Release Documentation."
 ---
-
 ## [Android](/release-android-front.html)
 
  Check Android Release Notes for each IGAWorks services.
