@@ -1,5 +1,4 @@
 ---
-layout: index
 title: Introduction
 type: first_page
 homepage: true

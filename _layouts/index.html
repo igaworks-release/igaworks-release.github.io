@@ -4,81 +4,49 @@
 
     {% include head.html %}
 
-    {% unless site.print == true %}
-    {% if page.video == true %}
-    <link href="https://vjs.zencdn.net/4.12/video-js.css" rel="stylesheet">
-    <script src="https://vjs.zencdn.net/4.12/video.js"></script>
-    {% endif %}
-    {% endunless %}
-
-    {% unless site.print == true %}
-    {% if page.datatable == true %}
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.5/js/jquery.dataTables.js"></script>
-    <script>
-        $(document).ready(function(){
-
-            $('table.datatable').DataTable( {
-                        paging: false,
-                        stateSave: true
-                    }
-            );
-    </script>
-    {% endif %}
-    {% endunless %}
-
 </head>
 
 <body>
 
 {% include topnav.html %}
 
+    <!-- Page Content -->
+    <div class="container">
+        <div class="col-lg-12">&nbsp;</div>
 
-<!-- Page Content -->
-<div class="container">
-    <div class="col-lg-12">&nbsp;</div>
+        {% include sidebar.html %}
 
+        <!-- Content Column -->
+        <div class="col-md-9">
 
-    {% include sidebar.html %}
+            <div class="post-header">
+                <h1 class="post-title-main">{% if page.homepage == true %} {{site.homepage_title}} {% else %}{{ page.title }}{% endif %}</h1>
+            </div>
 
-    <!-- Content Column -->
-    <div class="col-md-9">
+            <a class="post-content">
 
-        <div class="post-header">
-            <h1 class="post-title-main">{% if page.homepage == true %} {{site.homepage_title}} {% else %}{{ page.title }}{% endif %}</h1>
-        </div>
+                {% if page.summary %}
+                <div class="summary">{{page.summary}}</div>
+                {% endif %}
 
-        <a class="post-content">
-
-            {% if page.summary %}
-            <div class="summary">{{page.summary}}</div>
-            {% endif %}
-
-            {% include toc.html %}
-
-            {% include update.html %}
+            </a>
 
 
-<!--
-            {% for page in site.pages %}
-                {% for tag in page.tags %}
-                    {% if tags == main %}
-                    <a href="/{{ page.permalink }}"><h2>{{page.title }}</h2></a>
-                        <div class="post-content">{{ page.content }}
-                        </div>
-                    {% endif %}
-                {% endfor %}
-            {% endfor %}
--->
+            <div class="post-content">
+
+                {{content}}
 
 
-            {{content}}
-            <br>
+                {% include update.html %}
+
+            </div>
 
         </div>
-    </div>    <!-- /.container -->
+        <!-- /.container -->
 
+    </div>
 </body>
+
 {% if site.google_analytics %}
 {% include google_analytics.html %}
 {% endif %}
