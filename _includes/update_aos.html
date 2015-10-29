@@ -9,11 +9,13 @@
         {{ page.title }}
     </a></h2>
 
-    {{ page.content | replace: "##", "<h6></h6>" | replace: "*", "<li>" | replace: "---", "" | replace: "h2 id="*"", "h2" | truncatewords:20 }}
-    <a href="/{{ page.permalink }}">read more</a></li>
+    {{ page.content | replace: "##", "<h6></h6>" | replace: "</h6>", "</h6></ul>" | replace: "*", "<ul><li>" | replace: "---", "" | replace: "h2 id=""", "h2" | truncatewords:20 }}
+    <a href="/{{ page.permalink }}">read more</a></li></ul>
 
 </div>
 </br>
 {% endif %}
 {% endfor %}
 {% endfor %}
+
+
