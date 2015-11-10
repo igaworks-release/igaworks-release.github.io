@@ -1,11 +1,14 @@
 ---
 title: LiveOps SDK
 keywords: start, introduction, begin, install, build, hello world,
-last_updated: October 2, 2015
-tags: 
+last_updated: November 10, 2015
+tags: ios
 permalink: release-ios-liveops.html
 summary: "This is LiveOps Release Notes."
 ---
+
+## 2.0.4
+* Fixed low resolution displaying in Notice Pop-up
 
 ## 2.0.3
 * Fixed Invalid Bundle rejecting issue
