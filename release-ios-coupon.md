@@ -7,6 +7,9 @@ permalink: release-ios-coupon.html
 summary: "This is Coupon Release Notes."
 ---
 
+## 2.0.2
+* Added BITCODE_GENERATION_MODE : bitcode
+
 ## 2.0.1
 * Fixed warning issue when building app with Xcode7
 * Added required framework
