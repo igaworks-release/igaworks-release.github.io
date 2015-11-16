@@ -9,10 +9,11 @@ summary: "This is AdBrix Release Notes."
 
 ## 2.0.2
 * Promotion callback parameter update: Using usn instead of puid
+* Added BITCODE_GENERATION_MODE : bitcode
 
 ## 2.0.1
 * Fixed warning issue when building app with Xcode7
-* Addd required framework
+* Added required framework
 * Fixed Invalid Bundle rejecting issue
 
 
