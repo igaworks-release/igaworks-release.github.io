@@ -7,6 +7,9 @@ permalink: release-ios-core.html
 summary: "This is Core Release Notes."
 ---
 
+## 2.0.4
+* Added BITCODE_GENERATION_MODE : bitcode
+
 ## 2.0.3
 * Fixed low resolution displaying in Notice Pop-up
 
