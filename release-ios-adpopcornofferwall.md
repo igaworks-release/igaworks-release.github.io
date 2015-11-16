@@ -7,6 +7,9 @@ permalink: release-ios-adpopcornofferwall.html
 summary: "This is AdPopcornOfferwall Release Notes."
 ---
 
+## 2.0.3
+* Added BITCODE_GENERATION_MODE : bitcode
+
 ## 2.0.2
 * Fixed warning issue when building app with Xcode7
 * Added required framework
