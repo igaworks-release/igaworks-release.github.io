@@ -7,6 +7,9 @@ permalink: release-ios-liveops.html
 summary: "This is LiveOps Release Notes."
 ---
 
+## 2.0.5
+* Added BITCODE_GENERATION_MODE : bitcode
+
 ## 2.0.4
 * Fixed low resolution displaying in Notice Pop-up
 
