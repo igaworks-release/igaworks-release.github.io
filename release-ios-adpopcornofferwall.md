@@ -7,7 +7,7 @@ permalink: release-ios-adpopcornofferwall.html
 summary: "This is AdPopcornOfferwall Release Notes."
 ---
 
-_Unity 2.0.6_
+## Unity 2.0.6
 * _Changed HandleOnRewardRequestResult delegate_
 
 ## 2.0.3
