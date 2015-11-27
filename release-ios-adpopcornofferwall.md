@@ -2,10 +2,13 @@
 title: AdPopcornOfferwall SDK
 keywords: start, introduction, begin, install, build, hello world,
 last_updated: October 2, 2015
-tags: 
+tags: ios
 permalink: release-ios-adpopcornofferwall.html
 summary: "This is AdPopcornOfferwall Release Notes."
 ---
+
+_Unity 2.0.6_
+* _Changed HandleOnRewardRequestResult delegate_
 
 ## 2.0.3
 * Added BITCODE_GENERATION_MODE : bitcode
