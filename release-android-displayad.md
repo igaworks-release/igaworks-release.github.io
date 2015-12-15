@@ -7,6 +7,11 @@ permalink: release-android-displayad.html
 summary: "This is DisplayAd Release Notes."
 ---
 
+## 2.0.4a
+* Updating internal logic
+* Adding banner destroy function
+* Inscreasing version number of InMoabi, Adfit(Adam), Syrup(Tad) mediation Network SDKs
+
 ## 2.0.3a
 * Fixed Ending Ads issue
 
