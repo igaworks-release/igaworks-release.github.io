@@ -7,6 +7,9 @@ permalink: release-ios-core.html
 summary: "This is Core Release Notes."
 ---
 
+## 2.0.5
+* Support newest Reachability class
+
 ## 2.0.4
 * Added BITCODE_GENERATION_MODE : bitcode
 
