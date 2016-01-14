@@ -2,7 +2,7 @@
 title: Adpopcorn SDK
 keywords: start, introduction, begin, install, build, hello world,
 last_updated: September 25, 2015
-tags: 
+tags: android
 permalink: release-android-adpopcorn.html
 summary: "This is Adpopcorn Release Notes."
 ---
