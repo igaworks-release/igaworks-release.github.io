@@ -2,10 +2,13 @@
 title: Nanoo SDK
 keywords: start, introduction, begin, install, build, hello world,
 last_updated: October 2, 2015
-tags: 
+tags: ios
 permalink: release-ios-nanoo.html
 summary: "This is Nanoo Release Notes."
 ---
+
+## 2.0.3
+* Added SFSafariViewController : URL validate check
 
 ## 2.0.2
 * Added BITCODE_GENERATION_MODE : bitcode
