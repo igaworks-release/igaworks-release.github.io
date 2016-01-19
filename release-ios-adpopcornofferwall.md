@@ -7,6 +7,11 @@ permalink: release-ios-adpopcornofferwall.html
 summary: "This is AdPopcornOfferwall Release Notes."
 ---
 
+## 2.0.5
+* Added [NSArray objectAtIndex:] : NSRangeException
+* Added SFSafariViewController : URL validate check
+* Fixed instance deallocated issue in AdPopcornSDKService
+
 ## 2.0.4
 * Support newest Reachability class
 
