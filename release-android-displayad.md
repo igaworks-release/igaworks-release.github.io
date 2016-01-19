@@ -7,13 +7,11 @@ permalink: release-android-displayad.html
 summary: "This is DisplayAd Release Notes."
 ---
 
-## Unity 2.0.4
-* _Fixed issue OnInterstitialClosed delegate_
-
 ## 2.0.4a
 * Updating internal logic
 * Adding banner destroy function
 * Inscreasing version number of InMoabi, Adfit(Adam), Syrup(Tad) mediation Network SDKs
+* **[Unity]** Fixed issue OnInterstitialClosed delegate
 
 ## 2.0.3a
 * Fixed Ending Ads issue
