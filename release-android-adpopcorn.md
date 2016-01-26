@@ -12,6 +12,7 @@ summary: "This is Adpopcorn Release Notes."
 * Improved Offerwall UI
 * Support Android 6.0 (Marshmallow)
 * Added function for getting google account information to prevent abusing
+* **[Unity]** Fixed client reward type issue
 
 ## 4.0.3a
 * Removed agreement popup asking for user permission to collect Google Advertiser ID(ADID)
