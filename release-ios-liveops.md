@@ -2,7 +2,7 @@
 title: LiveOps SDK
 keywords: start, introduction, begin, install, build, hello world,
 last_updated: November 10, 2015
-tags: iOS
+tags: ios
 permalink: release-ios-liveops.html
 summary: "This is LiveOps Release Notes."
 ---
