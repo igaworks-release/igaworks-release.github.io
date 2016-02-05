@@ -7,6 +7,9 @@ permalink: release-ios-liveops.html
 summary: "This is LiveOps Release Notes."
 ---
 
+## 2.0.6
+* When receiving LiveOps Popup deeplink, convert it to NSDictionary type.
+
 ## 2.0.5
 * Added BITCODE_GENERATION_MODE : bitcode
 
