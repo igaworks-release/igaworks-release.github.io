@@ -2,7 +2,7 @@
 title: AdPopcornOfferwall SDK
 keywords: start, introduction, begin, install, build, hello world,
 last_updated: October 2, 2015
-tags: ios
+tags: 
 permalink: release-ios-adpopcornofferwall.html
 summary: "This is AdPopcornOfferwall Release Notes."
 ---
