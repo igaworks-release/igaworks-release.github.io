@@ -6,6 +6,8 @@ tags: android
 permalink: release-android-displayad.html
 summary: "This is DisplayAd Release Notes."
 ---
+## 2.0.5a
+* Added Facebook mediation network
 
 ## 2.0.4a
 * Updating internal logic
