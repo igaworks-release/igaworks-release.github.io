@@ -2,9 +2,16 @@
 title: Common SDK
 keywords: start, introduction, begin, install, build, hello world,
 last_updated: September 24, 2015
-tags: 
+tags: android
 permalink: release-android-common.html
 summary: "This is Common Release Notes."
+---
+
+## 4.1.0a
+* Support Android 6.0 (Marshmallow)
+* Reduce Memory usage and thread usage
+* Internal modification 
+
 ---
 
 ## 4.0.8a
