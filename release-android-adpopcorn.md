@@ -7,6 +7,9 @@ permalink: release-android-adpopcorn.html
 summary: "This is Adpopcorn Release Notes."
 ---
 
+## 4.0.6a
+* Fixed CS issue
+
 ## 4.0.5
 * Added Advertise Type
 * Improved Offerwall UI
