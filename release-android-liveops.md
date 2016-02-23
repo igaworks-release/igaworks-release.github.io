@@ -7,6 +7,12 @@ permalink: release-android-liveops.html
 summary: "This is LiveOps Release Notes."
 ---
 
+## 1.3.1a
+* Support Android 6.0 (Marshmallow)
+* Internal modification 
+
+---
+
 ## 1.3.0a
 * Removed unnecessary error log, when using Notice Pop-up
 
