@@ -2,9 +2,14 @@
 title: Core SDK
 keywords: start, introduction, begin, install, build, hello world,
 last_updated: November 10, 2015
-tags: 
+tags: iOS
 permalink: release-ios-core.html
 summary: "This is Core Release Notes."
+---
+
+## 2.1
+* Chaged init API
+
 ---
 
 ## 2.0.5
