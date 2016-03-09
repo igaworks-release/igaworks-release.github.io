@@ -7,6 +7,9 @@ permalink: release-ios-core.html
 summary: "This is Core Release Notes."
 ---
 
+## 2.1.1
+ * Added Facebook app install tracking
+
 ## 2.1
 * Chaged init API
 
