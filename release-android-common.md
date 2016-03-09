@@ -7,6 +7,9 @@ permalink: release-android-common.html
 summary: "This is Common Release Notes."
 ---
 
+## 4.2.0a
+* Added Facebook app install tracking
+
 ## 4.1.0a
 * Support Android 6.0 (Marshmallow)
 * Reduce Memory usage and thread usage
