@@ -6,6 +6,10 @@ tags: android
 permalink: release-android-liveops.html
 summary: "This is LiveOps Release Notes."
 ---
+## 1.3.2a
+* Fixed client push bug
+* Added Notifications Setting (Heads-up Notification, Lock Screen Notification)
+* Added InboxStyle Notifications
 
 ## 1.3.1a
 * Support Android 6.0 (Marshmallow)
