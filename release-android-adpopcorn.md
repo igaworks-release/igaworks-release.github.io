@@ -7,6 +7,13 @@ permalink: release-android-adpopcorn.html
 summary: "This is Adpopcorn Release Notes."
 ---
 
+## 4.0.7a
+* Added multiple targeting package setting
+* Added multiple de-targeting package setting
+* Added multiple special offer
+* Fixed CS issue
+* Added new campaign type
+
 ## 4.0.6a
 * Fixed CS issue
 
