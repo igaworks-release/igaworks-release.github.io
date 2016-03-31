@@ -6,6 +6,9 @@ tags: android
 permalink: release-android-liveops.html
 summary: "This is LiveOps Release Notes."
 ---
+## 1.3.3a
+* Fixed bug (Android 4.0 with GCM service)
+
 ## 1.3.2a
 * Fixed client push bug
 * Added Notifications Setting (Heads-up Notification, Lock Screen Notification)
