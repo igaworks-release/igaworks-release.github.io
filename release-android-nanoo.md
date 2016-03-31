@@ -6,6 +6,8 @@ tags:
 permalink: release-android-nanoo.html
 summary: "This is Nanoo Release Notes."
 ---
+## 1.0.2a
+* Internal modification
 
 ## 1.0.1a
 * From this version, SDK does not collect encrypted IMEI
