@@ -6,6 +6,8 @@ tags: android
 permalink: release-android-adbrix.html
 summary: "This is Adbrix Release Notes."
 ---
+## 4.2.1a
+* Removed unused code ( notification in CPE campaign)
 
 ## 4.1.0a
 * Support Android 6.0 (Marshmallow)
