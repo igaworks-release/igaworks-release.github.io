@@ -6,6 +6,8 @@ tags: android
 permalink: release-android-common.html
 summary: "This is Common Release Notes."
 ---
+## 4.2.5a
+* Updated internal logic to process deeplink conversion
 
 ## 4.2.2a
 * Added New API for deeplink conversion (registerReferrer)
