@@ -6,6 +6,10 @@ tags: android
 permalink: release-android-liveops.html
 summary: "This is LiveOps Release Notes."
 ---
+
+## 1.3.4a
+* Updated internal logic to prevent receiving duplication push message
+
 ## 1.3.3a
 * Fixed bug (Android 4.0 with GCM service)
 
