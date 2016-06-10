@@ -6,6 +6,9 @@ tags: android
 permalink: release-android-adbrix.html
 summary: "This is Adbrix Release Notes."
 ---
+## 4.2.2a
+* Updated API and login for FB ADs tracking.
+
 ## 4.2.1a
 * Removed unused code ( notification in CPE campaign)
 
