@@ -6,6 +6,9 @@ tags: android
 permalink: release-android-common.html
 summary: "This is Common Release Notes."
 ---
+## 4.2.7a
+* Updated API and logic for FB ADs tracking
+
 ## 4.2.5a
 * Updated internal logic to process deeplink conversion
 
