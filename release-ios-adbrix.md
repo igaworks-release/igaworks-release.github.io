@@ -6,6 +6,9 @@ tags: ios
 permalink: release-ios-adbrix.html
 summary: "This is AdBrix Release Notes."
 ---
+## 2.0.4
+* Internal modification about deeplink
+
 ## 2.0.3
 * Internal modification about Adbrix activity and Conversion
 
