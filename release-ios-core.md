@@ -1,11 +1,14 @@
 ---
 title: Core SDK
 keywords: start, introduction, begin, install, build, hello world,
-last_updated: November 10, 2015
+last_updated: June 22, 2016
 tags: ios
 permalink: release-ios-core.html
 summary: "This is Core Release Notes."
 ---
+## 2.2.1
+* Improving deeplinking login
+
 ## 2.2.0
 * Added didReceiveDeeplink method
 
