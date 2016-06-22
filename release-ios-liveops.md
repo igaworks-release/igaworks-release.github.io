@@ -1,11 +1,13 @@
 ---
 title: LiveOps SDK
 keywords: start, introduction, begin, install, build, hello world,
-last_updated: November 10, 2015
+last_updated: June 22, 2016
 tags: 
 permalink: release-ios-liveops.html
 summary: "This is LiveOps Release Notes."
 ---
+## 2.0.7
+* Improving deeplinking logic
 
 ## 2.0.6
 * When receiving LiveOps Popup deeplink, convert it from NSString to NSDictionary type.
